@@ -1,0 +1,4 @@
+random
+colorama
+bs4
+requests
